@@ -1,2 +1,2 @@
-# movin-balls
-for viewing pleasure
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
